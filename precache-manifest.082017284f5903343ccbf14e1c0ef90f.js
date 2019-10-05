@@ -18,11 +18,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": ".//assets/fonts/c0254af870660508bbf7863b62ff78ff.woff2"
   },
   {
-    "revision": "5a81d21007fa2a68e27a",
+    "revision": "e1bda6a6e23487811a0b",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "5a81d21007fa2a68e27a",
+    "revision": "e1bda6a6e23487811a0b",
     "url": "./bundle.min.js"
   },
   {
