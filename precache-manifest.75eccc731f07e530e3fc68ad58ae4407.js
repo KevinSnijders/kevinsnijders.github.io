@@ -44,6 +44,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./../dist/favicon.png"
   },
   {
+    "revision": "c9a46807688179289d5ac4bfd3ff6785",
+    "url": "./../dist/icons/icon-128x128.png"
+  },
+  {
+    "revision": "6b130480a70a0ab9cbd32ccc5a08202c",
+    "url": "./../dist/icons/icon-144x144.png"
+  },
+  {
+    "revision": "9f38acb845bbf03fe1cc2e5469ad1bda",
+    "url": "./../dist/icons/icon-152x152.png"
+  },
+  {
+    "revision": "f01b6e06a48d5f3a1338937353e0f96a",
+    "url": "./../dist/icons/icon-192x192.png"
+  },
+  {
+    "revision": "fc2d0edde3c9c15731b75aeb74bf364b",
+    "url": "./../dist/icons/icon-384x384.png"
+  },
+  {
+    "revision": "53af01a7ba65111c7815fdf61ff58550",
+    "url": "./../dist/icons/icon-512x512.png"
+  },
+  {
+    "revision": "f26f5731099c0049d469092d9a3b98b0",
+    "url": "./../dist/icons/icon-72x72.png"
+  },
+  {
+    "revision": "2865e971a9f087c203f9d5a9ed7356af",
+    "url": "./../dist/icons/icon-96x96.png"
+  },
+  {
     "revision": "7e51feb971dcf00d0a75607b58950a79",
     "url": "./../dist/manifest.json"
   },
