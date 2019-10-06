@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./../dist/favicon.png"
   },
   {
+    "revision": "7e51feb971dcf00d0a75607b58950a79",
+    "url": "./../dist/manifest.json"
+  },
+  {
     "url": ".//assets/fonts/16a05af0153a1575d27d578a87506558.woff"
   },
   {
