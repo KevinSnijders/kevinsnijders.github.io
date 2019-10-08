@@ -54,8 +54,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/icons/icon-96x96.png"
   },
   {
+    "revision": "8cd3d232e8c7d72db63531152ccede0d",
+    "url": "./assets/images/404.png"
+  },
+  {
     "revision": "d86feecef6284c887c52847e6a3d27a0",
     "url": "./assets/images/kevin.png"
+  },
+  {
+    "revision": "575fe88bba251d03cd0531b4dda95810",
+    "url": "./assets/images/loading.png"
   },
   {
     "revision": "84084eb473e05d6b83a7517ff5ac3d70",
@@ -63,26 +71,50 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "f5058977c2eb2b745c40ae7e84f3d1da",
+    "url": "./assets/images/portfolio/ajax-big.png"
+  },
+  {
+    "revision": "158be21ef56ec63a107f5e27f6f09b18",
     "url": "./assets/images/portfolio/ajax.png"
   },
   {
     "revision": "96b1f49033c87ca0816e4e271946224a",
+    "url": "./assets/images/portfolio/natours-big.png"
+  },
+  {
+    "revision": "5971194374f0ad9f6984251611279850",
     "url": "./assets/images/portfolio/natours.png"
   },
   {
     "revision": "5de3026d27fed31614a69745c6a845d7",
+    "url": "./assets/images/portfolio/nexter-big.png"
+  },
+  {
+    "revision": "86366e647f8858d4823b17258e78f022",
     "url": "./assets/images/portfolio/nexter.png"
   },
   {
     "revision": "1f0848baf5fe0b42f06bf0275fab5168",
+    "url": "./assets/images/portfolio/robofriends-big.png"
+  },
+  {
+    "revision": "286dd775aa89be32a8634d0ceea7e50f",
     "url": "./assets/images/portfolio/robofriends.png"
   },
   {
     "revision": "5766a5ffd109beadab15201c4e42b021",
+    "url": "./assets/images/portfolio/smart-brain-big.png"
+  },
+  {
+    "revision": "b5844ce0ff491501e4dac20e5d89a41c",
     "url": "./assets/images/portfolio/smart-brain.png"
   },
   {
     "revision": "8f979518a0016e42ae239dd5a5db8771",
+    "url": "./assets/images/portfolio/trillo-big.png"
+  },
+  {
+    "revision": "4c5021466bdbaafb9a559ee647750d76",
     "url": "./assets/images/portfolio/trillo.png"
   },
   {
@@ -98,11 +130,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "c0a7ace8b88c4ad9964e",
+    "revision": "7c8bc83cdb413107fb90",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "c0a7ace8b88c4ad9964e",
+    "revision": "7c8bc83cdb413107fb90",
     "url": "./bundle.min.js"
   },
   {
