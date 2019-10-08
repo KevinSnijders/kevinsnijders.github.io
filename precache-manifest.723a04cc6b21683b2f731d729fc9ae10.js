@@ -130,11 +130,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "7c8bc83cdb413107fb90",
+    "revision": "ad53b7419225e7a010ef",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "7c8bc83cdb413107fb90",
+    "revision": "ad53b7419225e7a010ef",
     "url": "./bundle.min.js"
   },
   {
