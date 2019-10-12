@@ -134,7 +134,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/portfolio/trillo.png"
   },
   {
-    "revision": "c7aa64db595d8b047cd68c45819c5d26",
+    "revision": "bc5506f94bc80ebe9840248cf7f6cade",
     "url": "./assets/images/sprites/sprite-brands.svg"
   },
   {
@@ -146,11 +146,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "c1d3b20e9392d4fc7ce3",
+    "revision": "866e010eaad4bf66076b",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "c1d3b20e9392d4fc7ce3",
+    "revision": "866e010eaad4bf66076b",
     "url": "./bundle.min.js"
   },
   {
