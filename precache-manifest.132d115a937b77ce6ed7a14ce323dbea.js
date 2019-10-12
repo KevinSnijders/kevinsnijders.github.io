@@ -78,6 +78,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/portfolio/ajax.png"
   },
   {
+    "revision": "a50cadef768d2ca54ccfe57fcaa98c94",
+    "url": "./assets/images/portfolio/fcrapport-big.png"
+  },
+  {
+    "revision": "95fd6c089e65fd7c872450e0599f0782",
+    "url": "./assets/images/portfolio/fcrapport.png"
+  },
+  {
     "revision": "96b1f49033c87ca0816e4e271946224a",
     "url": "./assets/images/portfolio/natours-big.png"
   },
@@ -92,6 +100,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "86366e647f8858d4823b17258e78f022",
     "url": "./assets/images/portfolio/nexter.png"
+  },
+  {
+    "revision": "c8bd60a1036120159bcf01e76f4a904a",
+    "url": "./assets/images/portfolio/player-profile-big.png"
+  },
+  {
+    "revision": "918543cd6240fde30bf641aa4671b932",
+    "url": "./assets/images/portfolio/player-profile.png"
   },
   {
     "revision": "1f0848baf5fe0b42f06bf0275fab5168",
@@ -118,7 +134,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/portfolio/trillo.png"
   },
   {
-    "revision": "fae9a1fc520f467e804c7185198cb6ca",
+    "revision": "c7aa64db595d8b047cd68c45819c5d26",
     "url": "./assets/images/sprites/sprite-brands.svg"
   },
   {
@@ -130,11 +146,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "f513a77d5a06238e5532",
+    "revision": "c1d3b20e9392d4fc7ce3",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "f513a77d5a06238e5532",
+    "revision": "c1d3b20e9392d4fc7ce3",
     "url": "./bundle.min.js"
   },
   {
