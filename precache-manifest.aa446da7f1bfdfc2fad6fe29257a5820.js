@@ -110,6 +110,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/portfolio/player-profile.png"
   },
   {
+    "revision": "94d9f1a79e2ec153e941f5fb8ce1b143",
+    "url": "./assets/images/portfolio/portfolio-big.png"
+  },
+  {
+    "revision": "c3fe416d7c6ced58ec33484720437df7",
+    "url": "./assets/images/portfolio/portfolio.png"
+  },
+  {
     "revision": "1f0848baf5fe0b42f06bf0275fab5168",
     "url": "./assets/images/portfolio/robofriends-big.png"
   },
@@ -146,11 +154,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "4d8fc3ca123298d48409",
+    "revision": "4b2e6cb5b2dae1577efc",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "4d8fc3ca123298d48409",
+    "revision": "4b2e6cb5b2dae1577efc",
     "url": "./bundle.min.js"
   },
   {
