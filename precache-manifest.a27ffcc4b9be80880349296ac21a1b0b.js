@@ -58,7 +58,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/404.png"
   },
   {
-    "revision": "ef4d1f42bbd65a96fbd7ac85b622be6f",
+    "revision": "62610a5981f31296effea2a5167c1e08",
     "url": "./assets/images/kevin.png"
   },
   {
@@ -158,11 +158,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "7589009c86360055cf1e",
+    "revision": "56d8d90e0456b4bd644a",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "7589009c86360055cf1e",
+    "revision": "56d8d90e0456b4bd644a",
     "url": "./bundle.min.js"
   },
   {
