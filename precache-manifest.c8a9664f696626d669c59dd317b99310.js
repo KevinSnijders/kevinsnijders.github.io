@@ -90,6 +90,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/portfolio/fcrapport.png"
   },
   {
+    "revision": "ccefb9641c8a80917d759b7c02e05cd1",
+    "url": "./assets/images/portfolio/messaging-big.png"
+  },
+  {
+    "revision": "70f5b14bd411b65438fc4217c3123bd1",
+    "url": "./assets/images/portfolio/messaging.png"
+  },
+  {
     "revision": "96b1f49033c87ca0816e4e271946224a",
     "url": "./assets/images/portfolio/natours-big.png"
   },
