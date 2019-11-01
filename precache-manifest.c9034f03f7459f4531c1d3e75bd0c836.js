@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/kevin.png"
   },
   {
-    "revision": "d86feecef6284c887c52847e6a3d27a0",
-    "url": "./assets/images/kevin2.png"
-  },
-  {
     "revision": "575fe88bba251d03cd0531b4dda95810",
     "url": "./assets/images/loading.png"
   },
@@ -154,7 +150,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/portfolio/trillo.png"
   },
   {
-    "revision": "613ca63833b20053d075fa7210bb159b",
+    "revision": "3ad0deb945d100cbffb768f5fdb6d669",
     "url": "./assets/images/sprites/sprite-brands.svg"
   },
   {
@@ -166,11 +162,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "56d8d90e0456b4bd644a",
+    "revision": "d1f890512b6fd05c4475",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "56d8d90e0456b4bd644a",
+    "revision": "d1f890512b6fd05c4475",
     "url": "./bundle.min.js"
   },
   {
