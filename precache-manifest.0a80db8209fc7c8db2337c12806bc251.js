@@ -154,7 +154,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/images/sprites/sprite-brands.svg"
   },
   {
-    "revision": "21d267ce807602dd002f70d545f193bf",
+    "revision": "15639d08a8613db9efd300cff190885b",
     "url": "./assets/images/sprites/sprite-icons.svg"
   },
   {
@@ -162,11 +162,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "298d0eeef5b4b50abd59",
+    "revision": "004ddbfd076398d58e1a",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "298d0eeef5b4b50abd59",
+    "revision": "004ddbfd076398d58e1a",
     "url": "./bundle.min.js"
   },
   {
