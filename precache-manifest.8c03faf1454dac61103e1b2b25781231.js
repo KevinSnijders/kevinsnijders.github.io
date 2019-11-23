@@ -54,16 +54,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/icons/icon-96x96.png"
   },
   {
-    "revision": "8cd3d232e8c7d72db63531152ccede0d",
-    "url": "./assets/images/404.png"
+    "revision": "32b0d39b7bc7a039ab479cd2eaa316ff",
+    "url": "./assets/images/empty.svg"
   },
   {
     "revision": "62610a5981f31296effea2a5167c1e08",
     "url": "./assets/images/kevin.png"
   },
   {
-    "revision": "575fe88bba251d03cd0531b4dda95810",
-    "url": "./assets/images/loading.png"
+    "revision": "0182eee9ae3344f8345f803e2a13e348",
+    "url": "./assets/images/loading.svg"
   },
   {
     "revision": "84084eb473e05d6b83a7517ff5ac3d70",
@@ -162,11 +162,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./assets/manifest.json"
   },
   {
-    "revision": "66aeb95d54b9048d7a75",
+    "revision": "d1fa9b29d9430b9a56ff",
     "url": "./bundle.min.css"
   },
   {
-    "revision": "66aeb95d54b9048d7a75",
+    "revision": "d1fa9b29d9430b9a56ff",
     "url": "./bundle.min.js"
   },
   {
